@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![image]()
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -35,3 +36,56 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+`hello`
+
+**hello** *hello* ***hello*** 
+
+
+
+这是一个一级标题
+==============
+这是一个二级标题
+--------------
+
+#一级标题
+##二级标题
+###三级标题
+
+1.欢迎来到[西安](url)
+2.欢迎来到[梵居闹市](http://blog.leanote.com/freewalk "梵居闹市")
+
+我经常去的几个网站[Google][1]、[Leanote][2]以及[自己的博客][3]
+[Leanote 笔记][2]是一个不错的[网站][]。
+[1]:http://www.google.com "Google"
+[2]:http://www.leanote.com "Leanote"
+[3]:http://http://blog.leanote.com/freewalk "梵居闹市"
+[网站]:http://http://blog.leanote.com/freewalk
+
+在搜索网站，我肯定首选[Google][1]，毕竟[Google][1]作为世界上最大的搜索引擎。上面的资源肯定是最丰富的。在国内我我会用[Baidu][2]作为我的搜索引擎。
+[1]:http://www.google.com "Google"
+[2]:http://www.baidu.com "Baidu"
+
+<http://www.baidu.com></br>
+<address@qq.com>
+
+跳转到[目录](#1)
+
+- hello
+- world
+- i love tiger
+
+----------
+
+* hello
+* world
+* i like tiger
+
+-----
+
++ hello
++ world
++ i miss tiger
+
+-----
+
